@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mainak Chakraborty.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning React, Python.
-- 💞️ I’m looking to collaborate on Webpages
+- 🌱 I’m currently learning Rust, Java, C, Tailwind, React, Python.
+- 💞️ I’m looking to collaborate on Webpages and solving algorithms
 - 📫 How to reach me :
      Gmail - exoticcoder123@gmail.com
 
