@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Mainak Chakraborty.
-- 👀 I’m interested in coding.
+# Hey there, I'm Mainak.
+
+- 👋 I'm a aspiring junior programmer.
 - 🌱 I’m currently learning Rust, Java, C, Tailwind, React, Python.
 - 💞️ I’m looking to collaborate on Webpages and solving algorithms
 - 📫 How to reach me :
